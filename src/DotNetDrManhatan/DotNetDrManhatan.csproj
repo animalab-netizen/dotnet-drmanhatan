@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageId>dotnet-drmanhatan</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>ÂnimaLab</Authors>
     <Company>ÂnimaLab</Company>
     <Description>Observable event runtime for .NET applications without telemetry vendor coupling.</Description>

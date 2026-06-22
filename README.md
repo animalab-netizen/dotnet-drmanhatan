@@ -40,7 +40,7 @@ It does not open WebSocket connections, execute HTTP calls or guarantee that eve
 ## Coordinates
 
 - package: `dotnet-drmanhatan`
-- version: `0.1.0`
+- version: `0.1.1`
 
 Installation:
 

@@ -7,7 +7,7 @@
 Current coordinates:
 
 - package: `dotnet-drmanhatan`
-- version: `0.1.0`
+- version: `0.1.1`
 - repository: `github.com/animalab-netizen/dotnet-drmanhatan`
 
 ## Distribution Model
@@ -31,4 +31,4 @@ dotnet add package dotnet-drmanhatan
 3. Update `CHANGELOG.md`
 4. Confirm version in `src/DotNetDrManhatan/DotNetDrManhatan.csproj`
 5. Commit release metadata
-6. Create and push tag `v0.1.0`
+6. Create and push tag `v0.1.1`
